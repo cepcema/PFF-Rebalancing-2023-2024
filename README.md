@@ -1,6 +1,6 @@
 #     PFF-Rebalancing-2023-2024
 
-
+![Example pic]([images/logo.png](https://i.ibb.co/qBrfCZp/1.jpg))
 
 This project is aimed at analyzing historical financial data and generating visualizations for analysis.
 
@@ -74,3 +74,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
