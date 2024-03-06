@@ -1,6 +1,7 @@
 #     PFF-Rebalancing-2023-2024
 
-![Example pic]([images/logo.png](https://i.ibb.co/qBrfCZp/1.jpg))
+![Example pic](https://i.ibb.co/qBrfCZp/1.jpg)
+
 
 This project is aimed at analyzing historical financial data and generating visualizations for analysis.
 
